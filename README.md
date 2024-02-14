@@ -1,4 +1,4 @@
-# Resume.
+# Resume..
 Resume Created with HTML&amp;CSS.
 <!DOCTYPE html>
 <html lang="en">
