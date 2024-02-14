@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    padding: 20px;
+}
+
+.left-side {
+    flex: 0 0 50%;
+    padding-right: 20px;
+}
+
+.right-side {
+    flex: 0 0 50%;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 32px;
+    color: #333;
+    text-transform: uppercase;
+}
+
+header p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 5px 10px #bcd5dc;
+}
+
+section h2 {
+    margin: 0 0 10px;
+    font-size: 24px;
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+section ul ul {
+    margin-top: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Add background colors to specific sections */
+#objective{
+    background-color: #e3ebf181;
+}
+
+#education {
+    background-color: #e3ebf181; /* Light blue */
+}
+
+#projects{
+  background-color: #e3ebf181;
+
+}
+#certifications{
+    background-color: #e3ebf181;
+}
+
+#skills {
+    background-color: #e3ebf181; 
+}
+
+#internship {
+    background-color: #e3ebf181;
+}
+
+#hobbies {
+    background-color: #e3ebf181;
+}
